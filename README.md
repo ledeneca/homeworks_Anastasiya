@@ -1,2 +1,1 @@
-# homeworks_Anastasiya
-homeworks_Anastasiya
+A simple command-line application.
